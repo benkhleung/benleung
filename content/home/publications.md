@@ -67,6 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+KHB Leung, "Optimal in-hospital defibrillator placement", Resuscitation, 2020.
