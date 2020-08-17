@@ -48,7 +48,7 @@ social:
   link: mailto:ben[at]mie[dot]utoronto[dot]ca
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=hqn2lA4AAAAJ
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/3151089/kh-benjamin-leung/
