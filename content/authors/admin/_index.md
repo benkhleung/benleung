@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: Department of Mechanical and Industrial Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -30,13 +30,13 @@ education:
   courses:
   - course: PhD in Industrial Engineering (Operations Research)
     institution: University of Toronto
-    year: current
+    year: 2019 - Current
   - course: MASc in Industrial Engineering (Operations Research)
     institution: University of Toronto
-    year: 2019
+    year: 2017 - 2019
   - course: BASc (with Honours) in Industrial Engineering
     institution: University of Toronto
-    year: 2017
+    year: 2012 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,14 +45,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact' 
+  link: mailto:ben[at]mie[dot]utoronto[dot]ca
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/3151089/kh-benjamin-leung/
-  icon: orcid
+- icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7887-5286
 # Link to a PDF of your resume/CV from the About widget.
